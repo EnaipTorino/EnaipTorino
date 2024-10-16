@@ -1,5 +1,3 @@
-![Logo Enaip](enaip-logo.png)
-
 ## ENAIP Torino
 Benvenuti nel profilo Github delle classi **INFO** di *ENAIP Torino*.
 
@@ -45,3 +43,6 @@ Benvenuti nel profilo Github delle classi **INFO** di *ENAIP Torino*.
 1. [STEFANO](https://github.com/CHANGE)
 1. [VINCENZO](https://github.com/CHANGE)
 1. [YASSIR](https://github.com/CHANGE)
+
+![Logo Enaip](enaip-logo.png)
+
