@@ -1,4 +1,4 @@
-## ENAIP Torino
+# ENAIP Torino
 ![Logo Enaip](enaip-logo.png)  
 Benvenuti nel profilo Github delle classi **INFO** di *ENAIP Torino*.
 
